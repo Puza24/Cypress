@@ -33,7 +33,8 @@ Folder: cypress with 3 additional folders
 - support with 2 files inside 'commands.js' and 'e2e.js'
 
 File: cypress.config.js
-9.cypress.config.js SpecPattern
+
+9. cypress.config.js SpecPattern
 - It is necessary to insert into cypress.config.js path to folder where your test are located so that Cypress can know from which file to execute tests. I made folder 'integration' and another folder inside 'examples' on my project and because of this my SpecPattern inside
 cypress.config.js will be SpecPattern: 'cypress/integradion/examples/*.js'
 <img width="649" alt="Screen Shot 2023-05-15 at 16 56 15" src="https://github.com/Puza24/Cypress/assets/106740508/1cdc244a-0c8a-4db4-986c-37b5828bf90d">
