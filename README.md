@@ -5,9 +5,9 @@ Cypress setup step by step
 2. Create folder inside VS Code Terminal
 - mkdir 'Folder name' eg. (Cypress Auotmation)
 3. Move to that folder
-- cd 'Folder name' (Cypress Auotmation)
+- cd 'Folder name' eg. (Cypress Auotmation)
 4. Create package.json file for new project
-- package.json is JSON file that exist at root of JavaScript/Node project and 
+- package.json is JSON file that exist at root of *JavaScript/Node* project and 
 it is used for managing the projects dependencies
 - To create package.json inside project just run command `npm -i install` and
 click 'Enter' button untill you get to last part and then type 'yes' word and 
