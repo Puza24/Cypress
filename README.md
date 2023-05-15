@@ -1,4 +1,4 @@
-#Cypress setup step by step
+# Cypress setup step by step
 
 1.Download node.js
 - Their official website - https://nodejs.org/en/download
