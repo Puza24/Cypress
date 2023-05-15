@@ -26,10 +26,12 @@ since this is QA Automation project then choose E2E testing and Component Testin
 - On 'Configuration files' Page just click 'Continue' button with all checkboxes checked 
 - Choose browser on which you want to run your Cypress Test runner and click on 'Start E2E testing' button
 8. Now in your projects you have 1 new folder and 1 new file added:
+
 Folder: cypress with 3 additional folders
 - downloads (empty)
 - fixtures with file inside 'example.json'
 - support with 2 files inside 'commands.js' and 'e2e.js'
+
 File: cypress.config.js
 
 
