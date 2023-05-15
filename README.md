@@ -1,6 +1,6 @@
 # Cypress setup step by step
 
-1.Download node.js
+1. Download node.js
 - Their official website - https://nodejs.org/en/download
 2. Create folder inside VS Code Terminal
 - mkdir 'Folder name' eg. (Cypress Auotmation)
