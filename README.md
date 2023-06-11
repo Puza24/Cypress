@@ -21,7 +21,7 @@ Install Code Editor
 
 - **Visual Studio Code** is the best
 
-## Cypress Installtion
+## Cypress Installation
 
 - Create package.json file for new project, run command:
 ```
