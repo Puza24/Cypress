@@ -14,9 +14,11 @@ or run command:
 npm -i install
 ```
 Check if Node version, run command: 
-`node -v`
-
+```
+node -v
+```
 Install Code Editor
+
 - **Visual Studio Code** is the best
 
 4. Create package.json file for new project
