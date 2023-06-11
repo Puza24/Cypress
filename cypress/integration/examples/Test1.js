@@ -19,6 +19,12 @@ describe('My first test suite', function () {
                 //ako je text od producta jednak Cashews... 
                 cy.wrap($el).contains('ADD TO CART').click()
                 //onda klikni ADD to Cart button i cy.wrap smo ubacili jer od novije verzije cypressa mora tako inace ne bi radila metoda za click
+                cy.get('.brand').then(function(logoElement) {
+                    cy.log(logoElement.text())
+                })
+                 //ovako printujes u logs
+                 cy.get('.brand').should('have.text', 'GREENKART')
+                 //ovako pises asertaciju da je dobar logo displayed
             }
         })
     })
