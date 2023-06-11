@@ -10,8 +10,9 @@ Install Node modules
 - Their official website - https://nodejs.org/en/download
 
 or run command:
-`npm -i install`
-
+```
+npm -i install
+```
 Check if Node version, run command: 
 `node -v`
 
