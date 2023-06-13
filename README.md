@@ -1,10 +1,17 @@
 # Cypress Setup Repository
 
+- [Description](#description)
+- [Prerequisites](#prerequisites)
+- [Cypress setup](#Cypress setup)
+
 ## Description
 
 This repository contains Cypress web testing framework setup
 
-## Necessities
+## Prerequisites
+Code editor
+
+- We recomend **Visual Studio Code**
 
 Install Node modules v14 or above
 ```
@@ -14,15 +21,12 @@ Check if you already have Node or check Node version, run command:
 ```
 node -v
 ```
-Install Code Editor
 
-- **Visual Studio Code** is the best
-
-## Cypress Installation
+## Cypress setup
 
 - Create package.json file for new project, run command:
 ```
-npm -i install
+npm init
 ```
 - To install Cypress, run command:
 ```
