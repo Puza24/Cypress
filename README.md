@@ -6,12 +6,9 @@ This repository contains Cypress web testing framework setup
 
 ## Necessities
 
-Install Node modules
-- Their official website - https://nodejs.org/en/download
-
-or run command:
+Install Node modules v14 or above
 ```
-npm -i install
+npm i 
 ```
 Check Node version, run command: 
 ```
