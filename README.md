@@ -2,7 +2,7 @@
 
 - [Description](#description)
 - [Prerequisites](#prerequisites)
-- [Cypresssetup](#Cypresssetup)
+- [Cypress_setup](#Cypress_setup)
 
 ## Description
 
