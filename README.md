@@ -11,7 +11,7 @@ This repository contains Cypress web testing framework setup
 ## Prerequisites
 Code editor
 
-- We recomend **Visual Studio Code**
+We recomend **Visual Studio Code**
 
 Install Node modules v14 or above
 ```
@@ -24,16 +24,16 @@ node -v
 
 ## Cypress setup
 
-- Create package.json file for new project, run command:
+Create package.json file for new project, run command:
 ```
 npm init
 ```
-- To install Cypress, run command:
+To install Cypress, run command:
 ```
 npm install cypress --save-dev
 ```
 
-- To run Cypress Test runner, run command:
+To run Cypress Test runner, run command:
 ```
 node_modules/.bin/cypress open
 ```
