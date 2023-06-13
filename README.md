@@ -10,7 +10,7 @@ Install Node modules v14 or above
 ```
 npm i 
 ```
-Check Node version, run command: 
+Check if you already have Node or check Node version, run command: 
 ```
 node -v
 ```
